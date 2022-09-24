@@ -1,0 +1,12 @@
+{
+  "name": "devicey",
+  "version": "1.0.0",
+  "description": "devicey firebase admin to manage the client",
+  "main": "server.js",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohammed Gamal Al-Homaidi",
+  "license": "MIT"
+}
